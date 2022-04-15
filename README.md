@@ -1,5 +1,5 @@
 # Task-Manager
-To-do lists offer a way to increase productivity, stopping you from forgetting things, helps prioritise tasks, manage tasks effectively, use time wisely and improve time management as well as workflow.
+Task-Manager Application offer a way to increase productivity, stopping you from forgetting things, helps prioritise tasks, manage tasks effectively, use time wisely and improve time management as well as workflow.
 ![image_2022-04-15_154632236](https://user-images.githubusercontent.com/93794214/163559409-7a0b7250-cb5b-41f6-bd0f-f5f8bb237882.png)
 
 **Going to discuss how to create a weather app using tkinter. The GUI app will tell us the current weather of a particular city along with temperature details along with other details.**
